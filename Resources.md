@@ -27,6 +27,16 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Programming Languages, Part B](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-b) | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part A
 [Programming Languages, Part C](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-c) | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part B
 
+## Math
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
+[Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week | twice a month | none
+[Intro to Statistics ](https://www.udacity.com/course/intro-to-statistics--st101) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none
+
 ## Applications
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -36,4 +46,21 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Cryptography I ](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto)| Stanford | 7 weeks | 5 hours/week | once a month | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data
 
 ## News
-## Inspiration
+Let's keep ourselves updated with how CS is being applied in Real Life! Read whatever interests you the most in your field of CS and maybe find out news that can benefit your own projects!
+
+Source | Type | Effort  
+:-- | :--: | :--: |
+[TechCrunch](https://techcrunch.com) | Tech, Startup, Gadgets | 3 important articles + 2 of your choice 
+[Slashdot](https://slashdot.org/) | Leaked News in Tech, Politics and Business | 3 important articles
+[GigaOM](https://gigaom.com/) | Emerging Tech, Blogs, Forums | Choose freely
+
+
+
+## Inspiration and Fun
+Learning CS should be fun and exciting! With these Youtube videos, we get to see how workers in the CS industry work, their wealthy and balanced lifestyle in large tech companies. Maybe you'll be inspired to be a CS major. 
+
+Youtuber | Content |   
+:-- | :--: | 
+[Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw) | Lifestyle, CS Interviews and Humour | 
+[Forrest Knight](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg/videos) | CS Projects, Tips and Lifestyle |
+[Chris Jereza](https://www.youtube.com/channel/UCPrRsdgsxOmzr9ykAf7tlDw/videos) | CS in Uni, Tips and Lifestyle | 
