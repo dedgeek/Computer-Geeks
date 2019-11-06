@@ -3,7 +3,7 @@ For us who wants to self-learn CS.
 
 
 Hey Team, 
-Our Resources will be divided into these 5 sections.
+Our Resources will be divided into these 8 sections.
 
 
 ## Computer Science Basics
