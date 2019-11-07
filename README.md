@@ -60,6 +60,11 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
 [Cryptography I ](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto)| Stanford | 7 weeks | 5 hours/week | once a month | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data
 
+## Textbooks
+I have seeked out resources from my CS-major friends at King's College London and will be getting more online textbooks from other friends at other high-ranking universities. These textbooks should be comprehensible for us beginners and I highly recommend spending time reading when you commute or simply have free time to waste.
+
+[The Essentials of Computer Organization and Architecture](https://junyours.files.wordpress.com/2012/07/computer-organization-and-architecture.pdf)
+
 ## News
 Let's keep ourselves updated with how CS is being applied in Real Life! Read whatever interests you the most in your field of CS and maybe find out news that can benefit your own projects!
 
