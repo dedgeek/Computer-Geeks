@@ -3,7 +3,7 @@ For us who wants to self-learn CS.
 
 
 Hey Team, 
-Our Resources will be divided into these 8 sections.
+Our Resources will be divided into these 9 sections.
 
 
 ## Computer Science Basics
@@ -63,7 +63,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 ## Textbooks
 I have seeked out resources from my CS-major friends at King's College London and will be getting more online textbooks from other friends at other high-ranking universities. These textbooks should be comprehensible for us beginners and I highly recommend spending time reading when you commute or simply have free time to waste.
 
-[The Essentials of Computer Organization and Architecture](https://junyours.files.wordpress.com/2012/07/computer-organization-and-architecture.pdf)
+[The Essentials of Computer Organization and Architecture - Null and Lobur](https://junyours.files.wordpress.com/2012/07/computer-organization-and-architecture.pdf)
+[Discrete Mathematics and Its Applications - 7th Edition - Kenneth H. Rosen](https://www.academia.edu/39623296/Discrete_Mathematics_and_Its_Applications_-_7th_Edition_-_Kenneth_H._Rosen)
 
 ## News
 Let's keep ourselves updated with how CS is being applied in Real Life! Read whatever interests you the most in your field of CS and maybe find out news that can benefit your own projects!
@@ -73,8 +74,6 @@ Source | Type | Effort
 [TechCrunch](https://techcrunch.com) | Tech, Startup, Gadgets | 3 important articles + 2 of your choice 
 [Slashdot](https://slashdot.org/) | Leaked News in Tech, Politics and Business | 3 important articles
 [GigaOM](https://gigaom.com/) | Emerging Tech, Blogs, Forums | Choose freely
-
-
 
 ## Inspiration and Fun
 Learning CS should be fun and exciting! With these Youtube videos, we get to see how workers in the CS industry work, their wealthy and balanced lifestyle in large tech companies. Maybe you'll be inspired to be a CS major. 
