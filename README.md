@@ -63,6 +63,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 ## Textbooks
 I have seeked out resources from my CS-major friends at King's College London and will be getting more online textbooks from other friends at other high-ranking universities. These textbooks should be comprehensible for us beginners and I highly recommend spending time reading when you commute or simply have free time to waste.
 
+Textbook |
 :-- |
 [The Essentials of Computer Organization and Architecture - Null and Lobur](https://junyours.files.wordpress.com/2012/07/computer-organization-and-architecture.pdf)
 [Discrete Mathematics and Its Applications - 7th Edition - Kenneth H. Rosen](https://www.academia.edu/39623296/Discrete_Mathematics_and_Its_Applications_-_7th_Edition_-_Kenneth_H._Rosen)
