@@ -80,3 +80,4 @@ Youtuber | Content |
 [Forrest Knight](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg/videos) | CS Projects, Tips and Lifestyle |
 [Chris Jereza](https://www.youtube.com/channel/UCPrRsdgsxOmzr9ykAf7tlDw/videos) | CS in Uni, Tips and Lifestyle | 
 [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg/featured) | Games Development, Fun AI Projects, Humour |
+[Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/videos) | AI Games, Fun AI Projects |
