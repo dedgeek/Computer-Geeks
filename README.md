@@ -88,4 +88,4 @@ Youtuber | Content |
 [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg/featured) | Games Development, Fun AI Projects, Humour |
 [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/videos) | AI Games, Fun AI Projects |
 [CGP Grey](https://www.youtube.com/user/CGPGrey/videos) | CS explainations, Cartoon, Humour |
-[Two Minute Paper] (https://www.youtube.com/user/keeroyz/videos) | AI Application, Simulations |
+[Two Minute Paper](https://www.youtube.com/user/keeroyz/videos) | AI Application, Simulations |
