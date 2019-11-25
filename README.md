@@ -14,7 +14,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 
-## Programming
+## Software Engineering
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Java Programming: Solving Problems with Software](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming)| Duke | 4 weeks | 4-8 hours/week | twice a month | none
@@ -26,6 +26,15 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Programming Languages, Part A](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages) | UW | 5 weeks | 8-16 hours/week | once a month | Object Oriented Programming in Java
 [Programming Languages, Part B](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-b) | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part A
 [Programming Languages, Part C](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-c) | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part B
+
+## Data Science
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science) | IBM | 5 weeks | 2-5 hours/week | once a month | none
+[Analysing Data with Python](https://www.edx.org/course/analyzing-data-with-python) | IBM | 5 weeks | 2-5 hours/week | once a month | Python Basics for Data Science
+[Visualising Data with Python](https://www.edx.org/course/visualizing-data-with-python) | IBM | 5 weeks | 2-5 hours/week | once a month | Analysing Data with Python
+[Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct) | IBM | 5 weeks | 2-5 hours/week | once a month | Visualising Data with Python
+[Data Science and Machine Learning Capstone Project](https://www.edx.org/course/data-science-and-machine-learning-capstone-project) | IBM | 5 weeks | 2-5 hours/week | once a month | Machine Learning with Python: A Practical Introduction
 
 ## Math
 Courses | School | Duration | Effort | Frequency | Prerequisites
